@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='ohpcalc',
-    version='1.0.0',
+    version='1.0.1',
     author='Matt Stubenhofer',
     author_email='matt.stubenhofer@gmail.com',
     description='Tool used to calculate and round overhead and profit for invoices',
